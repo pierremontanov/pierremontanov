@@ -50,7 +50,7 @@ I bring a dual perspective to every project: the **business analyst** who maps s
   <img src="https://img.shields.io/badge/DocIQ-AI--Powered_Document_Intelligence-1a73e8?style=for-the-badge" alt="DocIQ">
 </a>
 
-**[DocIQ](https://github.com/pierremontanov/dociq)** — A backend AI engine that converts unstructured medical PDFs (scanned or digital, English or Spanish) into clean, validated, FHIR-compliant JSON. Built to plug into existing healthcare infrastructure without replacing anything.
+**[DocIQ](https://github.com/pierremontanov/HealthParse)** — A backend AI engine that converts unstructured medical PDFs (scanned or digital, English or Spanish) into clean, validated, FHIR-compliant JSON. Built to plug into existing healthcare infrastructure without replacing anything.
 
 Prescriptions, lab results, clinical histories — in as a PDF, out as structured data your EHR, LIMS, or patient portal already understands.
 
