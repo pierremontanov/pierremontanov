@@ -2,7 +2,7 @@
 <h3 align="center">I build backend AI systems that make your existing software smarter.</h3>
 <p align="center">
   Technical Business Analyst &amp; Software Engineer &nbsp;|&nbsp; Master's in IT<br>
-  Founder, <a href="https://amphibianlabs.com.au"><strong>Amphibian Labs</strong></a> &mdash; AI &amp; automation consulting for Australian SMBs.<br>
+  Founder, <a href="https://amphibianlabs.com.au"><strong>Amphibian Labs</strong></a> | AI &amp; automation consulting for Australian SMBs.<br>
   <em>5+ years turning complex business problems into production-ready solutions.</em>
 </p>
 <p align="center">
@@ -41,13 +41,13 @@ I bring a dual perspective to every project: the **business analyst** who maps s
 
 ### What I Do
 
-**AI-Enhanced Backends** — I build services that sit behind your existing systems and make them smarter. Document intelligence, data extraction, classification, validation, automation, delivered as REST APIs or containerized microservices your team can deploy and forget.
+**AI-Enhanced Backends** | I build services that sit behind your existing systems and make them smarter. Document intelligence, data extraction, classification, validation, automation, delivered as REST APIs or containerized microservices your team can deploy and forget.
 
-**Microsoft Ecosystem Automation** — Power Platform (Power Automate, Power Apps, Power BI), Dynamics 365 CRM, and broader Microsoft tooling. I help organisations automate workflows, build internal apps, and get more from the systems they already pay for.
+**Microsoft Ecosystem Automation** | Power Platform (Power Automate, Power Apps, Power BI), Dynamics 365 CRM, and broader Microsoft tooling. I help organisations automate workflows, build internal apps, and get more from the systems they already pay for.
 
-**Business-to-Technical Translation** — With 5+ years as a Technical BA, I bridge the gap between what the business needs and what engineering delivers. I write the requirements *and* the code.
+**Business-to-Technical Translation** | With 5+ years as a Technical BA, I bridge the gap between what the business needs and what engineering delivers. I write the requirements *and* the code.
 
-**Production-Grade Engineering** — Everything I build ships with tests, Docker, health probes, structured logging, and deployment scripts. No prototypes left on a branch.
+**Production-Grade Engineering** | Everything I build ships with tests, Docker, health probes, structured logging, and deployment scripts. No prototypes left on a branch.
 
 ---
 
@@ -57,7 +57,7 @@ I bring a dual perspective to every project: the **business analyst** who maps s
   <img src="https://img.shields.io/badge/DocIQ-AI--Powered_Document_Intelligence-1a73e8?style=for-the-badge" alt="DocIQ">
 </a>
 
-**[DocIQ](https://github.com/pierremontanov/HealthParse)** — A backend AI engine that converts unstructured medical PDFs (scanned or digital, English or Spanish) into clean, validated, FHIR-compliant JSON. Built to plug into existing healthcare infrastructure without replacing anything.
+**[DocIQ](https://github.com/pierremontanov/HealthParse)** | A backend AI engine that converts unstructured medical PDFs (scanned or digital, English or Spanish) into clean, validated, FHIR-compliant JSON. Built to plug into existing healthcare infrastructure without replacing anything.
 
 Prescriptions, lab results, clinical histories: in as a PDF, out as structured data your EHR, LIMS, or patient portal already understands.
 
@@ -67,7 +67,7 @@ Prescriptions, lab results, clinical histories: in as a PDF, out as structured d
 
 ### Also Working On
 
-**Real-time security surveillance AI** — Designing a cascading multi-model inference pipeline (YOLOv10, SlowFast, ViTPose) for detecting violence, weapons, zone breaches, and threatening postures at the edge. Hybrid edge-plus-cloud architecture, fully open-source stack (PyTorch, OpenCV, paho-mqtt). Early stage, not yet public.
+**Real-time security surveillance AI** | Designing a cascading multi-model inference pipeline (YOLOv10, SlowFast, ViTPose) for detecting violence, weapons, zone breaches, and threatening postures at the edge. Hybrid edge-plus-cloud architecture, fully open-source stack (PyTorch, OpenCV, paho-mqtt). Early stage, not yet public.
 
 ---
 
